@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @915376245
+- 👋 Hi, I’m @CharonDelMar
 - 👀 I’m interested in Statistics and Machine Learning.
 - 🌱 I’m currently learning Engineering Mathematics and Computing Science.
 - 💞️ I’m looking to collaborate on the notes about Mathematical studying and the Mathematical Part in Computer Science.
